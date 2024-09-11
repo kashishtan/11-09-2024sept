@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Courtnay",
+        "last_name": "Pollington",
+        "email": "cpollington0@fotki.com",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 2,
+        "first_name": "Vivi",
+        "last_name": "Tolworth",
+        "email": "vtolworth1@goodreads.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Tremaine",
+        "last_name": "Willmott",
+        "email": "twillmott2@bloglines.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Andrey",
+        "last_name": "Martinek",
+        "email": "amartinek3@fema.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Tommi",
+        "last_name": "Crockley",
+        "email": "tcrockley4@digg.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Madelaine",
+        "last_name": "Donisi",
+        "email": "mdonisi5@mac.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Ada",
+        "last_name": "Lewsy",
+        "email": "alewsy6@accuweather.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Delores",
+        "last_name": "Paulsen",
+        "email": "dpaulsen7@g.co",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 9,
+        "first_name": "Terry",
+        "last_name": "Gowland",
+        "email": "tgowland8@cbsnews.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Sonni",
+        "last_name": "Hurry",
+        "email": "shurry9@mtv.com",
+        "gender": "Female"
+    }
+]
