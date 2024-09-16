@@ -28,13 +28,6 @@
         "gender": "Male"
     },
     {
-        "id": 5,
-        "first_name": "Tommi",
-        "last_name": "Crockley",
-        "email": "tcrockley4@digg.com",
-        "gender": "Female"
-    },
-    {
         "id": 6,
         "first_name": "Madelaine",
         "last_name": "Donisi",
@@ -43,7 +36,7 @@
     },
     {
         "id": 7,
-        "first_name": "Ada",
+        "first_name": "neha",
         "last_name": "Lewsy",
         "email": "alewsy6@accuweather.com",
         "gender": "Female"
@@ -67,6 +60,13 @@
         "first_name": "Sonni",
         "last_name": "Hurry",
         "email": "shurry9@mtv.com",
+        "gender": "Female"
+    },
+    {
+        "id": 11,
+        "first_name": "kashish",
+        "last_name": "Tolworth",
+        "email": "vtolworth1@goodreads.com",
         "gender": "Female"
     }
 ]
